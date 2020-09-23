@@ -14,6 +14,8 @@ public class A_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Log.d(TAG, "log Aaaa");
         Log.d(TAG, "log bb");
+        Log.d(TAG, "log cc111");
+
 
     }
 }
