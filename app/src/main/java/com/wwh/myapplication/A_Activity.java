@@ -16,6 +16,7 @@ public class A_Activity extends AppCompatActivity {
         Log.d(TAG, "log bb");
         Log.d(TAG, "log cc111");
         Log.d(TAG, "log dddd");
+        Log.d(TAG, "log eee");
 
 
     }
