@@ -13,6 +13,7 @@ public class A_Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.d(TAG, "log Aaaa");
+        Log.d(TAG, "log bb");
 
     }
 }
