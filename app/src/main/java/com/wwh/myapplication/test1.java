@@ -9,4 +9,5 @@ public class test1 {
     private String f;
     private String g;
     private String a1;
+    private String a2;
 }
