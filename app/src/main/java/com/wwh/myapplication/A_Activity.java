@@ -19,6 +19,7 @@ public class A_Activity extends AppCompatActivity {
         Log.d(TAG, "log eee");
         Log.d(TAG, "log 存储胰腺癌");
         Log.d(TAG, "log new e");
+        Log.d(TAG, "log new f");
 
     }
 }
