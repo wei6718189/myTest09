@@ -23,6 +23,7 @@ public class A_Activity extends AppCompatActivity {
         Log.d(TAG, "log new dev2 1");
         Log.d(TAG, "log new dev2 2");
         Log.d(TAG, "log new dev2 3");
+        Log.d(TAG, "log new dev2 4");
 
     }
 }
