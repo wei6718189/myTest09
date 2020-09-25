@@ -13,4 +13,6 @@ public class test1 {
     private String a3;
     private String a4;
     private String a5;
+    private String a6;
+    private String a7;
 }
