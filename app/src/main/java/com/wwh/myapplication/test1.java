@@ -27,4 +27,5 @@ public class test1 {
     private String a17;
     private String a18;
     private String a19;
+    private String a20;
 }
