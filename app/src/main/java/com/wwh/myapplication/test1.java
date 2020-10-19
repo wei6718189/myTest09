@@ -39,5 +39,7 @@ public class test1 {
     private String a29;
     private String a30;
     private String a31;
+    private String a32;
+    private String a33;
 
 }
