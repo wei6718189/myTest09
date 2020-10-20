@@ -49,5 +49,7 @@ public class A_Activity extends AppCompatActivity {
         Log.d(TAG, "log new dev3 26 vscode");
         Log.d(TAG, "log new dev3 27 vscode");
         Log.d(TAG, "log new dev3 28 vscode");
+        Log.d(TAG, "log new dev3 29 vscode");
+        Log.d(TAG, "log new dev3 30 vscode");
     }
 }
