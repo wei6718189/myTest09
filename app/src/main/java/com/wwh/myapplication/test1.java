@@ -65,7 +65,8 @@ public class test1 {
     private String a55;
     private String a56;
     private String a57;
-    private String a58:
+    private String a58;
+    private String a59;
 
 
 }
