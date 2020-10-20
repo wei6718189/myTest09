@@ -41,5 +41,6 @@ public class A_Activity extends AppCompatActivity {
         Log.d(TAG, "log new dev2 18 as");
         Log.d(TAG, "log new dev2 19 as");
         Log.d(TAG, "log new dev2 20 as");
+        Log.d(TAG, "log new dev3 21 as");
     }
 }
