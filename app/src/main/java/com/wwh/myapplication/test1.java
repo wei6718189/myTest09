@@ -70,9 +70,8 @@ public class test1 {
     private String a52229;
     private String a60;
     private String a601;
+    private String a602;
 
-    private String a55;
-    private String a56;
 
 
 }
